@@ -75,7 +75,7 @@ Check out the live demo of **Jarvis – AI Voice Assistant** on YouTube:
 
 
 
-🔥 Currently Working On
+## 🔥 Currently Working On
 
 📂 RAG (Retrieval-Augmented Generation) improvements
 
