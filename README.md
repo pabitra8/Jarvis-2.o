@@ -5,13 +5,21 @@ It can talk with you in real-time, answer questions, search the web, open apps, 
 
 ---
 🚀 Features
+
 🎙️ Voice commands with speech recognition and text-to-speech
+
 🤖 AI-powered answers (Groq LLaMA3, Cohere, Hugging Face models)
+
 🔍 Real-time web search & summaries
+
 🖼️ Image generation using Hugging Face Diffusion models
+
 📂 PDF Question Answering (RAG with LangChain)
+
 🖥️ Simple PyQt5 GUI with mic control
+
 ⚡ Runs multiple tasks at once (threading)
+
 🌐 Agentic workflows with LangGraph (in progress)
 
 ---
