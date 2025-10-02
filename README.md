@@ -29,8 +29,7 @@ It can talk with you in real-time, answer questions, search the web, open apps, 
 - **PyQt5, OpenCV, Selenium** – GUI & automation  
 - **SpeechRecognition, Edge-TTS** – voice interaction  
 - **Groq, Cohere, Hugging Face, LangChain** – AI models  
-- **Stable Diffusion XL** – image generation  
-- **SQL/MySQL, Power BI** – data & analytics  
+- **Hugging Face Diffusion models** – image generation  
 
 ---
 
