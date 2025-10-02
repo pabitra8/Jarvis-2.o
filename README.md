@@ -4,19 +4,15 @@ Jarvis is a Python-based **AI Voice Assistant** inspired by Iron Man’s J.A.R.V
 It can talk with you in real-time, answer questions, search the web, open apps, and even generate images.  
 
 ---
-🎙️ Real-time voice commands with speech recognition + natural text-to-speech
-
-🖥️ Interactive PyQt5 GUI with mic toggle, assistant messages, and status updates
-
-🤖 AI-powered responses (Groq LLaMA3, Cohere, Hugging Face models)
-
-🔍 Live web search & instant summaries
-
-📂 PDF Question Answering (RAG) – upload documents and ask questions
-
-🖼️ AI Image generation using Stable Diffusion XL
-
-⚡ Multi-task execution with threading & subprocess management
+🚀 Features
+🎙️ Voice commands with speech recognition and text-to-speech
+🤖 AI-powered answers (Groq LLaMA3, Cohere, Hugging Face models)
+🔍 Real-time web search & summaries
+🖼️ Image generation using Hugging Face Diffusion models
+📂 PDF Question Answering (RAG with LangChain)
+🖥️ Simple PyQt5 GUI with mic control
+⚡ Runs multiple tasks at once (threading)
+🌐 Agentic workflows with LangGraph (in progress)
 
 ---
 
