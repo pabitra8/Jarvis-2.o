@@ -39,19 +39,19 @@ Jarvis/
 
 ## ⚡ How to Run  
 
-1. Clone the repo:
+**1. Clone the repo:**
 
   git clone https://github.com/yourusername/jarvis.git
   
   cd jarvis
 
 
-2. Install dependencies:
+**2. Install dependencies:**
 
   pip install -r requirements.txt
 
 
-3. Add your API keys in a .env file:
+**3. Add your API keys in a .env file:**
 
   GROQ_API_KEY=your_key
   
@@ -60,7 +60,7 @@ Jarvis/
   HF_API_KEY=your_key
 
 
-4. Run the assistant:
+**4. Run the assistant:**
 
   python Main.py
 
