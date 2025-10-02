@@ -42,6 +42,7 @@ Jarvis/
 1. Clone the repo:
 
   git clone https://github.com/yourusername/jarvis.git
+  
   cd jarvis
 
 
@@ -53,7 +54,9 @@ Jarvis/
 3. Add your API keys in a .env file:
 
   GROQ_API_KEY=your_key
+  
   COHERE_API_KEY=your_key
+  
   HF_API_KEY=your_key
 
 
