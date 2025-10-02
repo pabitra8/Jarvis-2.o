@@ -1,0 +1,17 @@
+python-dotenv>=1.0.1
+groq>=0.4.1
+AppOpener>=1.6
+pywhatkit>=5.4
+beautifulsoup4>=4.12.3
+pillow>=10.3.0
+rich>=13.7.1
+requests>=2.31.0
+keyboard>=0.13.5
+cohere>=4.41
+googlesearch-python>=1.2.3
+selenium>=4.20.0
+mtranslate>=1.8
+pygame>=2.5.2
+edge-tts>=6.1.10
+PyQt5>=5.15.0
+webdriver-manager>=4.0.1
