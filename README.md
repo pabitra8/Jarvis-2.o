@@ -28,8 +28,11 @@ It can talk with you in real-time, answer questions, search the web, open apps, 
 
 ## 📂 Project Structure  
 Jarvis/
+
 │── Frontend/ (GUI + Files)
+
 │── Backend/ (Main, Model, Search, Automation)
+
 │── README.md
 
 ---
@@ -38,25 +41,25 @@ Jarvis/
 
 1. Clone the repo:
 
-git clone https://github.com/yourusername/jarvis.git
-cd jarvis
+  git clone https://github.com/yourusername/jarvis.git
+  cd jarvis
 
 
-Install dependencies:
+2. Install dependencies:
 
-pip install -r requirements.txt
-
-
-Add your API keys in a .env file:
-
-GROQ_API_KEY=your_key
-COHERE_API_KEY=your_key
-HF_API_KEY=your_key
+  pip install -r requirements.txt
 
 
-Run the assistant:
+3. Add your API keys in a .env file:
 
-python Main.py
+  GROQ_API_KEY=your_key
+  COHERE_API_KEY=your_key
+  HF_API_KEY=your_key
+
+
+4. Run the assistant:
+
+  python Main.py
 
 
 ## 🎥 Demo Video  
