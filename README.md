@@ -40,23 +40,44 @@ Jarvis/
 ## ⚡ How to Run  
 
 1. Clone the repo:  
-```bash
+
 git clone https://github.com/yourusername/jarvis.git
 cd jarvis
 
 
-Install dependencies:
+2. Install dependencies:
 
 pip install -r requirements.txt
 
 
-Add your API keys in a .env file:
+3. Add your API keys in a .env file:
 
 GROQ_API_KEY=your_key
 COHERE_API_KEY=your_key
 HF_API_KEY=your_key
 
 
-Run the assistant:
+4. Run the assistant:
 
 python Main.py
+
+
+## 🎥 Demo Video  
+
+Check out the live demo of **Jarvis – AI Voice Assistant** on YouTube:
+
+[![Jarvis Demo](https://img.youtube.com/vi/FuxLB7d1xaQ/0.jpg)](https://www.youtube.com/watch?v=FuxLB7d1xaQ)
+
+*(Click the thumbnail to watch the video)*
+
+
+
+🔥 Currently Working On
+
+📂 RAG (Retrieval-Augmented Generation) improvements
+
+🔗 LangChain integration for better pipelines
+
+🕸️ LangGraph workflows for multi-step reasoning
+
+🤖 Agentic AI (autonomous decision-making agents)
